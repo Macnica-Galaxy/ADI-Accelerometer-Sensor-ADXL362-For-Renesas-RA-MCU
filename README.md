@@ -1,0 +1,1 @@
+# ADI-Accelerometer-Sensor-ADXL362-For-Renesas-RA-MCU
